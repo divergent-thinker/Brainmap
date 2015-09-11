@@ -11,3 +11,18 @@ body {
 	color: white;
 }
 
+.back_red {
+	background-color: red;
+}
+
+.back_green {
+	background-color: green;
+}
+
+.back_blue {
+	background-color: blue;
+}
+
+.back_orange {
+	background-color: orange;
+}
